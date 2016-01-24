@@ -1,0 +1,87 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/KY_PRdSsj_tcUqy-ZvTws4cFTng\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/vf1QeDFPlGM-mbBrWJAuW3gxJjM\"",
+   "id": "UkAUeRd9UGU",
+   "snippet": {
+    "publishedAt": "2014-08-18T17:15:37.000Z",
+    "channelId": "UCK3WZJ9T2YZaLSnxj3Fh6ow",
+    "title": "Ngakak~Cak Lontong Sang motivator Sableng",
+    "description": "Cak Lontong di acara ILK-Indonesia Lawak Klub berperan sebagai Kloningan motivator Terkenal Mario Teguh yang diplesetkan sebagai Mario Tegang. Judul aslinya adalah Termotivasi sang Motivator, tetapi karena bagian yang lain terasa kurang lucu maka diedit videonya sehingga tinggal bagian yang paling lucu saja yang djadikan dalam video ILK ini. kredit buat Trans7.\nILK Terbaru\nILK Terbaru 2014\nILK Terlucu\nIndonesia Lawak Klub Terbaru\nCak Lontong\nCak Lontong ILK\nCak Lontong Indonesia Lawak KLub\nMario Teguh Terbaru\nMario Teguh 2014.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "CakVSlontong",
+    "tags": [
+     "ILK",
+     "Cak Lontong",
+     "Komeng",
+     "Lucu",
+     "Mario Teguh"
+    ],
+    "categoryId": "23",
+    "liveBroadcastContent": "none",
+    "localized": {
+     "title": "Ngakak~Cak Lontong Sang motivator Sableng",
+     "description": "Cak Lontong di acara ILK-Indonesia Lawak Klub berperan sebagai Kloningan motivator Terkenal Mario Teguh yang diplesetkan sebagai Mario Tegang. Judul aslinya adalah Termotivasi sang Motivator, tetapi karena bagian yang lain terasa kurang lucu maka diedit videonya sehingga tinggal bagian yang paling lucu saja yang djadikan dalam video ILK ini. kredit buat Trans7.\nILK Terbaru\nILK Terbaru 2014\nILK Terlucu\nIndonesia Lawak Klub Terbaru\nCak Lontong\nCak Lontong ILK\nCak Lontong Indonesia Lawak KLub\nMario Teguh Terbaru\nMario Teguh 2014."
+    }
+   },
+   "contentDetails": {
+    "duration": "PT12M38S",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false
+   },
+   "status": {
+    "uploadStatus": "processed",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": false
+   },
+   "statistics": {
+    "viewCount": "348401",
+    "likeCount": "572",
+    "dislikeCount": "41",
+    "favoriteCount": "0",
+    "commentCount": "36"
+   },
+   "player": {
+    "embedHtml": "\u003ciframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/UkAUeRd9UGU\" frameborder=\"0\" allowfullscreen\u003e\u003c/iframe\u003e"
+   },
+   "topicDetails": {
+    "relevantTopicIds": [
+     "/m/0_z5zxf",
+     "/m/0gyrglm"
+    ]
+   }
+  }
+ ]
+}

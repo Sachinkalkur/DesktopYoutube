@@ -1,0 +1,341 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/y_JdMLdoe0nb5BOGJLKVkf5oSiY\"",
+ "nextPageToken": "CAoQAA",
+ "pageInfo": {
+  "totalResults": 183588,
+  "resultsPerPage": 10
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/ORzmtsVdYT1efLrwgNSVJe2VPXg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UkAUeRd9UGU"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-18T17:15:37.000Z",
+    "channelId": "UCK3WZJ9T2YZaLSnxj3Fh6ow",
+    "title": "Ngakak~Cak Lontong Sang motivator Sableng",
+    "description": "Cak Lontong di acara ILK-Indonesia Lawak Klub berperan sebagai Kloningan motivator Terkenal Mario Teguh yang diplesetkan sebagai Mario Tegang.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UkAUeRd9UGU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/rn5nJFacUrSWweUht6NO7uDLFUA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SDTco7j6r8c"
+   },
+   "snippet": {
+    "publishedAt": "2014-06-03T15:57:10.000Z",
+    "channelId": "UC3JNnY_5jbcoDHpHhbNoSBQ",
+    "title": "Video Motivasi Hebat dari Motivator Dunia",
+    "description": "Video Motivasi Hebat dari www.motivasihebat.com selamat menikmati.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SDTco7j6r8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SDTco7j6r8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SDTco7j6r8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/lNVjtQy2uW2dmlZXH9yjAMwHcfA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "H5XdMHObMTs"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-17T07:42:00.000Z",
+    "channelId": "UCbuZL9Dhb2kzsoA_ShXbUcw",
+    "title": "11 Motivator Terbaik di Indonesia",
+    "description": "11 Motivator Terbaik di Indonesia. 11 Motivator yang Menginspirasi di Indonesia. 1. Hermawan Kartajaya - hermawan.typepad.com ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/H5XdMHObMTs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/H5XdMHObMTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/H5XdMHObMTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/RMaHfMNhfvQhuiyjvs_SryfZFEU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "U2XRSK-ozuc"
+   },
+   "snippet": {
+    "publishedAt": "2015-03-20T15:19:19.000Z",
+    "channelId": "UCqiqahk30VXfi5nNIV3VUOA",
+    "title": "The Best Of Motivator - Lucu Tapi Menginspirasi Banget ( Saptuari sugiharto)",
+    "description": "Saptuari Sugiharto. Dari namanya saja 'Sugiharto' sudah mengindikasikan kelak pemuda ini bakalan Sugih Arto yang artinya Kaya Uang. Entahlah karena ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/U2XRSK-ozuc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/U2XRSK-ozuc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/U2XRSK-ozuc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/wLXydenMOKzq02rjRTfNXKhq5ZA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "poP9MfEMR50"
+   },
+   "snippet": {
+    "publishedAt": "2014-06-16T17:51:03.000Z",
+    "channelId": "UCOGKmdutVc7t01tycvwmIYw",
+    "title": "Indonesia Lawak Klub 16 Juni 2014   TERMOTIVASI SANG MOTIVATOR",
+    "description": "Indonesia Lawak Klub 16 Juni 2014 \"TERMOTIVASI SANG MOTIVATOR\" Mario Tegang INDONESIA LAWAK KLUB CAK LONTONG INDONESIA LAWAK KLUB ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/poP9MfEMR50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/poP9MfEMR50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/poP9MfEMR50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TheTVIndonesia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/ubY0mLCdqh5SnxOBgXSK5vGsSSo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V_s2hBy6BVY"
+   },
+   "snippet": {
+    "publishedAt": "2010-09-27T12:57:59.000Z",
+    "channelId": "UC-BiX3PhkRGtInNpgiobp_Q",
+    "title": "MOTIVASI SPIRITUAL : MOTIVATOR MUHAMMAD KHAIRIL (\"Memahami Kehidupan)",
+    "description": "RENUNGAN INSPIRATIF DALAM MEMAKNAI KEHIDUPAN MC LEADERSHIP CENTRE C.P 081370765647-081375766361.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V_s2hBy6BVY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V_s2hBy6BVY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V_s2hBy6BVY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "KHAIRIL2051",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/ZVU7EeJS1A8dSYitwDSDRUEd2vI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "InLA-QBRbjU"
+   },
+   "snippet": {
+    "publishedAt": "2013-07-15T02:29:05.000Z",
+    "channelId": "UCrmgXElfpFPD9LDc_0aUfew",
+    "title": "Sarah Sechan - Merry Riana - Motivator Muda",
+    "description": "Program talkshow yang dipandu oleh host wanita (Sarah Sechan) yang akan berbincang-bincang dengan bintang tamu dan akan membahas sesuatu yang ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/InLA-QBRbjU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/InLA-QBRbjU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/InLA-QBRbjU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "netmediatama",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/D-WoTaLesNgO4_YVdLPP_cWhUD8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iH1XqbeBmK4"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-09T11:38:30.000Z",
+    "channelId": "UCys6nFVKqAk3ZJlRUm4qMgw",
+    "title": "Felix Siauw-Inspiration Share-(Motivator Tingkat Nasional) Disc 1",
+    "description": "Felix Siauw-Inspiration Share- (Motivator Tingkat Nasional) Disc 1. Mayoritas umat manusia mengikuti agama seperti iring-iringan bebek. Bebek bergerak ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iH1XqbeBmK4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iH1XqbeBmK4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iH1XqbeBmK4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "moviealihsan",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/s4nFUv2Ik_jzxYb6G5vJb3V5VC4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gbEKUeMnibw"
+   },
+   "snippet": {
+    "publishedAt": "2008-09-03T01:43:30.000Z",
+    "channelId": "UCLVlMTZPU4wYeej8p6JxhJg",
+    "title": "Motivator speaks at St. Mary's High School",
+    "description": "Nick Vujicic, who was born without arms or legs, gave a motivational speech Tuesday morning to the student body at St. Mary's High School. Vujicic, 25, travels ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gbEKUeMnibw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gbEKUeMnibw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gbEKUeMnibw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "recordnet",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"abQHWywil_AkNqdqji7_FqiK-u4/o8lZm_zdKBwMVbeclELGL3FLFeA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HrE2VkO9oTk"
+   },
+   "snippet": {
+    "publishedAt": "2015-09-29T02:54:02.000Z",
+    "channelId": "UCo0qftDa2XN60Y4_mLMBdrw",
+    "title": "7 Motivator Paling Terkenal Di Indonesia",
+    "description": "7 motivator yang paling terkenal di indonesia 7.james gwee Dia terkenal sebagai motivator bisnis yang handal. Tak hanya itu dia sering menggunakan bahasa ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HrE2VkO9oTk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HrE2VkO9oTk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HrE2VkO9oTk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
